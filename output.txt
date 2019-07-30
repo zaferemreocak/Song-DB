@@ -1,0 +1,35 @@
+The list in chronological order:
+1.poker face	3:58
+2.let it be	2:37
+3.hotel california	7:58
+4.englishman in newyork	4:28
+5.every breath you take	3:56
+6.back to black	4:17
+7.bohemian rhapsody	5:53
+
+The list in alphabetical order:
+1.back to black	4:17
+2.bohemian rhapsody	5:53
+3.englishman in newyork	4:28
+4.every breath you take	3:56
+5.hotel california	7:58
+6.let it be	2:37
+7.poker face	3:58
+
+The list in duration-time order:
+1.let it be	2:37
+2.every breath you take	3:56
+3.poker face	3:58
+4.back to black	4:17
+5.englishman in newyork	4:28
+6.bohemian rhapsody	5:53
+7.hotel california	7:58
+
+The list in random order:
+1.bohemian rhapsody	5:53
+2.every breath you take	3:56
+3.let it be	2:37
+4.englishman in newyork	4:28
+5.hotel california	7:58
+6.poker face	3:58
+7.back to black	4:17
